@@ -1,8 +1,6 @@
 # Markup Format For Documentation
 
 ## Overview  
-<img src="/quickHelp.png" width="40%" height="30%"></img>  
-
 ```
 /**
      add two integer numbers
@@ -28,6 +26,8 @@
     }
 ```  
 
+## QuickHelp
+<img src="/quickHelp.png" width="40%" height="30%"></img>  
 
 ## Reference
 https://developer.apple.com/library/archive/documentation/Xcode/Reference/xcode_markup_formatting_ref/index.html#//apple_ref/doc/uid/TP40016497-CH2-SW1
